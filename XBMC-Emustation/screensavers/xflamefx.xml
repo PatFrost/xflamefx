@@ -1,0 +1,36 @@
+<screensaver>
+
+ <!-- FireEffect ranges from 0 - 9 -->
+ <!-- 0 = Random Effect -->
+ <!-- 1-8 = Flame F/X Effects -->
+ <!-- 9 = xflame Effect -->
+ <!-- 255 = DEBUG - Display Color Palette -->
+ <FireEffect>9</FireEffect>
+
+ <!-- Divisor is the number of sections to break the screen into -->
+ <!-- Higher number results in larger/faster fire, but also more pixelated -->
+ <!-- 6 for 1080i / 4 for 720p / 2 for 480 -->
+ <Divisor>0</Divisor>
+
+ <!-- Color Palette to use for Flames Effect 1-8:  0 - 4 -->
+ <!-- 0 = Ideal Color Palette for Effect -->
+ <!-- 1-4 = Colors Provided in Flame F/X Package -->
+ <!-- 5 = Custom Color Palette - generated from CustomPalette option -->
+ <Palette>0</Palette>
+ <!-- CustomPalette value is used to generate Custom Color Palette for fire -->
+ <CustomPalette>0x00FFD100</CustomPalette>
+
+ <!-- Variables for greater control over effect 9 -->
+ <!-- 9HorizontalSpread: amount pixels on left and right are affected by current pixel's heat -->
+ <!-- 9VerticalSpread: amount pixel above is affected by current pixel's heat -->
+ <!-- 9Residual: rate of current pixels heat decrease -->
+ <!-- 9Variance: variety of random temperatures at base of the fire -->
+ <!-- 9Vartrend: amount subtracted by number generated with Variance --> 
+ <9HorizontalSpread>30</9HorizontalSpread>
+ <9VerticalSpread>97</9VerticalSpread>
+ <9Residual>99</9Residual>
+ <9Variance>50</9Variance>
+ <9Vartrend>20</9Vartrend>
+
+</screensaver>
+

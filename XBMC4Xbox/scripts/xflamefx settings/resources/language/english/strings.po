@@ -1,0 +1,132 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Frost\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc4xbox/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# labels 32000 thru 32999 reserved for scripts
+
+msgctxt "#32000"
+msgid "Fire Effect"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Ranges from 0 - 9"
+msgstr ""
+
+msgctxt "#32002"
+msgid "0 = Random Effect"
+msgstr ""
+
+msgctxt "#32003"
+msgid "1-8 = Flame F/X Effects"
+msgstr ""
+
+msgctxt "#32004"
+msgid "9 = xflame Effect"
+msgstr ""
+
+msgctxt "#32005"
+msgid "255 = DEBUG - Display Color Palette"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Divisor"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Divisor is the number of sections to break the screen into"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Higher number results in larger/faster fire, but also more pixelated"
+msgstr ""
+
+msgctxt "#32009"
+msgid "6 for 1080i / 4 for 720p / 2 for 480"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Color Palette"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Color Palette to use for Flames Effect 1-8:  0 - 4"
+msgstr ""
+
+msgctxt "#32012"
+msgid "0 = Ideal Color Palette for Effect"
+msgstr ""
+
+msgctxt "#32013"
+msgid "1-4 = Colors Provided in Flame F/X Package"
+msgstr ""
+
+msgctxt "#32014"
+msgid "5 = Custom Color Palette - generated from Custom Palette option"
+msgstr ""
+
+msgctxt "#32015"
+msgid "Custom Palette value is used to generate Custom Color Palette for fire"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Custom Color"
+msgstr ""
+
+msgctxt "#32017"
+msgid "Variables"
+msgstr ""
+
+msgctxt "#32018"
+msgid "Variables for greater control over effect 9"
+msgstr ""
+
+msgctxt "#32019"
+msgid "Horizontal Spread: amount pixels on left and right are affected by current pixel's heat"
+msgstr ""
+
+msgctxt "#32020"
+msgid "Vertical Spread: amount pixel above is affected by current pixel's heat"
+msgstr ""
+
+msgctxt "#32021"
+msgid "Residual: rate of current pixels heat decrease"
+msgstr ""
+
+msgctxt "#32022"
+msgid "Variance: variety of random temperatures at base of the fire"
+msgstr ""
+
+msgctxt "#32023"
+msgid "Vartrend: amount subtracted by number generated with Variance"
+msgstr ""
+
+msgctxt "#32024"
+msgid "Horizontal Spread"
+msgstr ""
+
+msgctxt "#32025"
+msgid "Vertical Spread"
+msgstr ""
+
+msgctxt "#32026"
+msgid "Residual"
+msgstr ""
+
+msgctxt "#32027"
+msgid "Variance"
+msgstr ""
+
+msgctxt "#32028"
+msgid "Vartrend"
+msgstr ""
